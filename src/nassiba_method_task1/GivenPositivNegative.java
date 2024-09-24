@@ -1,4 +1,4 @@
-package nassiba_method;
+package nassiba_method_task1;
 
 public class GivenPositivNegative {
     // check the given number positive or negative

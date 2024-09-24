@@ -1,4 +1,4 @@
-package nassiba_method;
+package nassiba_method_task1;
 
 public class PositiveNegative {
     //print positive or negative number:

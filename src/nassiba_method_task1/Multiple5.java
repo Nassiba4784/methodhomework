@@ -1,4 +1,4 @@
-package nassiba_method;
+package nassiba_method_task1;
 
 public class Multiple5 {
     // check given intiger is multiple 5:

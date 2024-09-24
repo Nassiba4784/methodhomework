@@ -1,15 +1,19 @@
-package nassiba_method;
+package nassiba_method_task1;
 
 public class AlphabetCha {
-    // print alphabet letter:
-    public void printAlpha(){
-        for (char a= 'a'; a <= 'z'; a++){
-            System.out.print(a+" ");
+    // print alphabet character:
+    public boolean findalphabet(char i) {
+        if (i >= 'a' && i <= 'z') {
+            boolean c = true;
+            return true;
+        } else {
+            return false;
         }
     }
-    public static void main(String[] args) {
-        AlphabetCha alphabetCha = new AlphabetCha();
-        alphabetCha.printAlpha();
+    public static void main (String[]args){
+        AlphabetCha alphaChar = new AlphabetCha();
+        System.out.println(alphaChar.findalphabet('4'));
+
     }
 }
 

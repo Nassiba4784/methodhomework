@@ -1,4 +1,4 @@
-package nassiba_method;
+package nassiba_method_task1;
 
 public class Divisible5And11 {
     // divible number by 5 and 11:

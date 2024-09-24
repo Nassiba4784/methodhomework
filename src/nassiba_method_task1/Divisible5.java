@@ -1,4 +1,4 @@
-package nassiba_method;
+package nassiba_method_task1;
 
 public class Divisible5 {
     // check divisible number by 5:
